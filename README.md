@@ -10,7 +10,7 @@ You can find him hanging out with his dog by the grill.
 
 -----
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,express,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,postgres,mysql,sqlite,express,js,ts,html,css,react,astro,next,aws,git,redis&perline=9)](https://skillicons.dev)
 
 
 <!--
